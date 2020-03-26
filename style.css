@@ -1,0 +1,121 @@
+
+            body {
+                display: flex;
+                background-color:seagreen;
+                height: 100vh;
+                width: 100vw;
+                align-items: center;
+                justify-content: center;
+                font-family: Roboto Mono;
+            }
+            
+            .input-col-forgot-pass {
+                font-size: 10px;
+            }
+
+            .input-col-icon i {
+                justify-content: center;
+                align-items: center;
+            }
+
+            .input-col-input input {
+                justify-content: center;
+                align-self: center;
+                width: 100%;
+                
+            }
+
+            .input-col-line {
+                padding:0%
+            }
+
+            .input-col-or {
+                display: flex;
+                justify-content: center;
+                font-size: 12px;
+            }
+
+            .input-col-register {
+                font-size: 10px;
+            }
+
+            .input-col-remember {
+                font-size: 12px;
+                align-self: center;
+            }
+
+            .input-col-social {
+                margin-top: 5px;
+                margin-bottom: 5px;
+            }
+
+            /* .input-row {
+                margin-top: 5px;
+                margin-bottom: 5px;
+            } */
+
+            .input-col-submit {
+                justify-content: flex-end;
+            }
+
+            /* center the login form */
+            .input-row-login-form {
+                height: 93%;
+                justify-content: center;
+                align-items: center;
+            }
+
+            .input-row-or {
+                justify-content: center;
+                align-items: center;
+            }
+
+            .login-container {
+                display:flex;
+                height: 40vw;
+                width: 55vw;
+                box-shadow: 0 10px 20px rgba(0,0,0,0.19), 0 6px 6px rgba(0,0,0,0.23);
+                border-radius: 5px;
+                
+
+            }
+
+            .login-form {
+                
+                background-color: cyan;
+                width: 50%;
+                /* height: 100%; */
+                padding-top: 5px;
+                border-radius: 5px 0 0 5px;
+                align-content: center;
+                justify-content: center;
+            }
+
+            .login-background {
+                background-image: url(https://en.wikipedia.org/wiki/Vaporwave);
+                background-position: center;
+                background-size: cover;
+                background-repeat: no-repeat;
+                border-radius: 0 5px 5px 0;
+                width: 50%;
+                height: 100%;
+            }
+
+            .input-social-button-icon {
+                max-width: max-content;
+            }
+
+            .input-social-button-text {
+                height: 36px;
+            }
+
+            .white-background {
+                background-color: white;
+            }
+
+            
+
+            
+
+
+        
